@@ -11,4 +11,4 @@ do
     echo "Class number $a"
 done
 sleep 5
-echo "$name, we are done with $curso course, taught in $language, See you soon!"
+echo "$name, we are done with $curso course, taught in $language, See you soon!!"
